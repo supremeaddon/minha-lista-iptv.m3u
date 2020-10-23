@@ -1,0 +1,453 @@
+# EXTM3U
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/F75tqwv/aande.png" group-title = "Filme e Serie", A&E
+http://pdsrv.io:25461/listapass/123456789/8139
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/F75tqwv/aande.png" group-title = "Filme e Serie", A&E HD *
+http://canais.servidor.tv:8080/san/san123/375
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/g7FpZ74/amc.png" group-title = "Filme e Serie", AMC
+http://pdsrv.io:25461/listapass/123456789/7691
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/g7FpZ74/amc.png" group-title = "Filme e Serie", AMC HD *
+http://canais.servidor.tv:8080/san/san123/373
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/stn1js5/axnb.png" group-title = "Filme e Serie", AXN
+http://pdsrv.io:25461/listapass/123456789/6140
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title = "Documentário", Animal Planet
+http://pdsrv.io:25461/listapass/123456789/24628
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title = "Documentário", Animal Planet *
+http://pdsrv.io:25461/listapass/123456789/11079
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/QNkBQc6/arte1.png" group-title = "Variedade", Arte 1
+http://pdsrv.io:25461/listapass/123456789/11308
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/B2DbLdN/bis.png" group-title = "Entretenimento e Musica", BIS
+https://globolive.akamaized.net/d/c/x2800/s/hls-bis24ha/hls-bis24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frthe4hnre = b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/yfscShb/babytv.png" group-title = "Infantil", Baby TV
+http://pdsrv.io:25461/listapass/123456789/4401
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/pWdRD7J/band.png" group-title = "TV Aberta", banda
+http://pdsrv.io:25461/listapass/123456789/25008
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/tHgNtbw/bandnews.png" group-title = "Notícia", Band News
+http://pdsrv.io:25461/listapass/123456789/10296
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/t8H0fk0/bandsports.png" group-title = "Esporte", Band Sports
+http://pdsrv.io:25461/listapass/123456789/6138
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/4WsFbpW/boomerangb.png" group-title = "Infantil", Boomerang
+http://pdsrv.io:25461/listapass/123456789/10294
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title = "Filme e Serie", Canal Brasil
+http://pdsrv.io:25461/listapass/123456789/10293
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/fxWk6Mh/canalruralb.png" group-title = "TV Aberta", (OFFLINE) Canal Rural
+http://198.255.23.18:2095/streams/17_.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e Serie", Cinemax
+http://canais.servidor.tv:8080/san/san123/347
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e Serie", Cinemax *
+http://pdsrv.io:25461/listapass/123456789/7802
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/HzWqMFR/combate.png" group-title = "Esporte", Combate
+https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jmac3hen = b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/HzWqMFR/combate.png" group-title = "Esporte", Combate HD *	
+http://canais.servidor.tv:8080/san/san123/342
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title = "Filme e Serie", Comedy Central
+http://pdsrv.io:25461/listapass/123456789/24920
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title = "Entretenimento", Comedy Central *
+http://pdsrv.io:25461/listapass/123456789/10292
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/CvvkxnR/tvcultura.png" group-title = "TV Aberta", (OFFLINE) Cultura
+
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/CvvkxnR/tvcultura.png" group-title = "TV Aberta", (OFFLINE) Cultura
+
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/YRKtq0s/curta.png" group-title = "Variedade", Curta!
+http://canais.servidor.tv:8080/san/san123/338
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentário", Discovery Channel
+http://pdsrv.io:25461/listapass/123456789/11548
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentário", Discovery Channel *
+http://canais.servidor.tv:8080/san/san123/340
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title = "Infantil", Discovery Kids
+http://pdsrv.io:25461/listapass/123456789/11532
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title = "Documentário", Discovery Science
+http://pdsrv.io:25461/listapass/123456789/7861
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title = "Documentário", Discovery Theatre
+http://pdsrv.io:25461/listapass/123456789/6130
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title = "Documentário", (OFFLINE) Discovery Turbo
+http://198.255.23.18:2095/streams/106_.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title = "Documentário", Discovery Turbo
+http://pdsrv.io:25461/listapass/123456789/6877
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title = "Documentário", Discovery World
+http://pdsrv.io:25461/listapass/123456789/6128
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/k1mR5zz/disney.png" group-title = "Infantil", Disney Channel
+http://pdsrv.io:25461/listapass/123456789/7902
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title = "Infantil", Disney JR
+http://pdsrv.io:25461/listapass/123456789/10286
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/KqXhhC2/disneyxd.png" group-title = "Infantil", Disney XD
+http://pdsrv.io:25461/listapass/123456789/20791
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Esporte", E! HD
+http://canais.servidor.tv:8080/san/san123/318
+
+#EXTINF: -1 tvg-logo = "https://www.espn.com/apple-touch-icon.png" group-title = "Esporte", ESPN HD
+http://canais.servidor.tv:8080/san/san123/1477
+
+#EXTINF: -1 tvg-logo = "https://www.espn.com/apple-touch-icon.png" group-title = "Esporte", ESPN HD +
+http://canais.servidor.tv:8080/san/san123/309
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Esporte", ESPN 2 HD
+http://canais.servidor.tv:8080/san/san123/1476
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Esporte", ESPN 2 HD +
+http://canais.servidor.tv:8080/san/san123/314
+
+#EXTINF: -1 tvg-logo = "espn-brasil-logo-1.png" group-title = "Esporte", ESPN Brasil HD
+https://origin.topcanais.com/mylive/espnbrasilsd/video.m3u8
+
+#EXTINF: -1 tvg-logo = "espn-brasil-logo-1.png" group-title = "Esporte", ESPN Brasil HD +
+http://canais.servidor.tv:8080/san/san123/313
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Esporte", ESPN Extra HD +
+http://canais.servidor.tv:8080/san/san123/311
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/BZxM22v/fxb.png" group-title = "Filme e Serie", FX
+http://canais.servidor.tv:8080/san/san123/294	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/BZxM22v/fxb.png" group-title = "Filme e Serie", FX *	
+http://canais.servidor.tv:8080/san/san123/1469
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/3mqnQx2/fishtv.png" group-title = "Variedade", Fish TV
+http://canais.servidor.tv:8080/san/san123/1469
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title = "Variedade", Food Network
+http://canais.servidor.tv:8080/san/san123/306
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/zQwKGNk/foxchannel.png" group-title = "Filme e Serie", Fox
+http://canais.servidor.tv:8080/san/san123/1473		
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/zQwKGNk/foxchannel.png" group-title = "Filme e Serie", Fox *
+http://canais.servidor.tv:8080/san/san123/304		
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title = "Variedade", Fox Life
+http://canais.servidor.tv:8080/san/san123/1472	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title = "Entretenimento", Fox Life *	
+http://canais.servidor.tv:8080/san/san123/303
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title = "Filme e Serie", Fox Premium 1
+http://canais.servidor.tv:8080/san/san123/1505
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title = "Filme e Serie", (OFFLINE) Fox Premium 1
+http://198.255.23.18:2095/streams/166_.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title = "Filme e Serie", (OFFLINE) Fox Premium 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium2_2456caf1_a3da61da7ba8d87715a90967e5f4c5a81d9810f8/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title = "Filme e Serie", (OFFLINE) Fox Premium 2
+http://198.255.23.18:2095/streams/168_.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/sPwqG58/foxsports.png" group-title = "Esporte", Fox Sports HD
+http://canais.servidor.tv:8080/san/san123/1502
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/sPwqG58/foxsports.png" group-title = "Esporte", Fox Sports HD *
+http://canais.servidor.tv:8080/san/san123/298
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/sPwqG58/foxsports.png" group-title = "Esporte", Fox Sports 2 HD
+http://canais.servidor.tv:8080/san/san123/1501
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/sPwqG58/foxsports.png" group-title = "Esporte", Fox Sports 2 HD *
+http://canais.servidor.tv:8080/san/san123/300
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/DDW7Xcz/gnt.png" group-title = "Variedade", (OFFLINE) GNT
+http://198.255.23.18:2095/streams/150_.m3u8
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "TV Aberta", Globo Minas HD
+http://canais.servidor.tv:8080/san/san123/279
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/dcFy14L/globorj.png" group-title = "TV Aberta", Globo
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/kxdMkfw/globosp.png" group-title = "TV Aberta", Globo *
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id = vis40n4q2u9jv3frt4nodrehe0 ~ hmac = b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Y0zj4xn/globonews.png" group-title = "Notícia", GloboNews
+http://canais.servidor.tv:8080/san/san123/1468	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/MSnGHZL/gloob.png" group-title = "Infantil", Gloob
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/gloob_04f1241e_c450d31b1caa8eeeaacda26e276b4a71a9eb2e05/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/MSnGHZL/gloob.png" group-title = "Infantil", Gloob *
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2uh9mac4frt3 = b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/7tz9V3n/hbo.png" group-title = "Filme e Serie", HBO
+http://canais.servidor.tv:8080/san/san123/1463	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/7tz9V3n/hbo.png" group-title = "Filme e Serie", HBO *
+http://canais.servidor.tv:8080/san/san123/227	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/YBJqynj/hbo2b.png" group-title = "Filme e Serie", HBO 2
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/YBJqynj/hbo2b.png" group-title = "Filme e Serie", HBO 2
+http://canais.servidor.tv:8080/san/san123/231	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/kxNkVc1/hbofamily.png" group-title = "Filme e Serie", HBO Family HD
+http://canais.servidor.tv:8080/san/san123/1464
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/kxNkVc1/hbofamily.png" group-title = "Filme e Serie", HBO Family HD *
+http://canais.servidor.tv:8080/san/san123/229
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/JHzz2yN/hboplus.png" group-title = "Filme e Serie", HBO Plus HD
+http://canais.servidor.tv:8080/san/san123/1462
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/JHzz2yN/hboplus.png" group-title = "Filme e Serie", HBO Plus HD *
+http://canais.servidor.tv:8080/san/san123/226
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e Serie", HBO Signature HD
+http://canais.servidor.tv:8080/san/san123/1461
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e Serie", HBO Signature HD +
+http://canais.servidor.tv:8080/san/san123/224
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentário", History Channel HD
+http://canais.servidor.tv:8080/san/san123/1459
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentário", History Channel HD *
+http://canais.servidor.tv:8080/san/san123/95
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/b6w6MWr/h2.png" group-title = "Filme e Serie", História 2
+http://canais.servidor.tv:8080/san/san123/1465	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/GkCFcmY/investigationb.png" group-title = "Documentário", ID (OFFLINE)
+http://198.255.23.18:2095/streams/116_.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/5rp1PW0/lifetime.png" group-title = "Filme e Serie", Lifetime
+http://canais.servidor.tv:8080/san/san123/1458
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/tsRJmPR/maisglobosatb.png" group-title = "Variedade", Mais Globosat HD
+http://canais.servidor.tv:8080/san/san123/213
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/4Nw6mrM/max.png" group-title = "Filme e Serie", Max HD
+http://canais.servidor.tv:8080/san/san123/1457
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/4Nw6mrM/max.png" group-title = "Filme e Serie", Max HD * http://canais.servidor.tv:8080 / san / san123 / 211
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/4Nw6mrM/max.png" group-title = "Filme e Serie", Max Prime HD
+http://canais.servidor.tv:8080/san/san123/1456
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/4Nw6mrM/max.png" group-title = "Filme e Serie", Max Prime HD *
+http://canais.servidor.tv:8080/san/san123/209
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/4Nw6mrM/max.png" group-title = "Filme e Serie", Max UP HD
+http://canais.servidor.tv:8080/san/san123/1455
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/4Nw6mrM/max.png" group-title = "Filme e Serie", Max UP HD *
+http://canais.servidor.tv:8080/san/san123/207
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Vtq0pNb/megapixb.png" group-title = "Filme e Serie", Megapix HD
+http://canais.servidor.tv:8080/san/san123/1454
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Vtq0pNb/megapixb.png" group-title = "Filme e Serie", Megapix HD *
+http://canais.servidor.tv:8080/san/san123/204
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/W5VwW2N/mtvb.png" group-title = "Entretenimento e Musica", MTV HD
+http://canais.servidor.tv:8080/san/san123/1453
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/W5VwW2N/mtvb.png" group-title = "Entretenimento e Musica", MTV HD *
+http://canais.servidor.tv:8080/san/san123/202
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/R0nqMq0/multishow.png" group-title = "Entretenimento e Musica", Multishow HD
+https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8?hdnts=st=1568898891~exp=1668898881~acl=/*~id=vis40n4q2u9jv3frthe4hnre = b9f7a5ee1d308c062b4062b0f57290d7f473f3b0f2813b742a8da9b4127cec07
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/R0nqMq0/multishow.png" group-title = "Entretenimento e Musica", Multishow HD *
+http://canais.servidor.tv:8080/san/san123/199
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/m86jr31/natgeokids.png" group-title = "Infantil", NatGeo Kids HD
+http://canais.servidor.tv:8080/san/san123/1451
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/m86jr31/natgeokids.png" group-title = "Infantil", NatGeo Kids HD *
+http://canais.servidor.tv:8080/san/san123/195
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/HCQCNbY/natgeowild.png" group-title = "Documentário", Natgeo Wild HD
+http://canais.servidor.tv:8080/san/san123/1450
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/HCQCNbY/natgeowild.png" group-title = "Documentário", Natgeo Wild HD *
+http://canais.servidor.tv:8080/san/san123/193
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/nn5x9pD/nickjr.png" group-title = "Infantil", Nick Jr HD
+http://canais.servidor.tv:8080/san/san123/1503
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/nn5x9pD/nickjr.png" group-title = "Infantil", Nick Jr HD *
+http://canais.servidor.tv:8080/san/san123/187
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/p4SynfT/nickelodeon.png" group-title = "Infantil", Nickelodeon HD
+http://canais.servidor.tv:8080/san/san123/1449	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/J23V5yZ/canaloffb.png" group-title = "Variedade e Esporte", Off
+http://canais.servidor.tv:8080/san/san123/183
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Canais 24h", Os Simpsons (24H)
+http://canais.servidor.tv:8080/san/san123/2328
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/D9Lc0JL/paramount.png" group-title = "Filme e Serie", Paramount
+http://canais.servidor.tv:8080/san/san123/1448
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Canais 24h", Pica-Pau (24H)
+http://canais.servidor.tv:8080/san/san123/2325
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere Clubes
+http://canais.servidor.tv:8080/san/san123/1447	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere Clubes *
+http://canais.servidor.tv:8080/san/san123/159	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar
+http://canais.servidor.tv:8080/san/san123/148
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title = "Notícia", Record News
+http://canais.servidor.tv:8080/san/san123/1513
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/wR1cmgM/redetv.png" group-title = "TV Aberta", RedeTV!
+http://canais.servidor.tv:8080/san/san123/136	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta", SBT
+http://canais.servidor.tv:8080/san/san123/1512
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta", SBT HD *
+http://canais.servidor.tv:8080/san/san123/402
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/rFxKrFQ/sony.png" group-title = "Filme e Serie", Sony
+http://canais.servidor.tv:8080/san/san123/1446
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/rFxKrFQ/sony.png" group-title = "Filme e Serie", Sony *	
+http://canais.servidor.tv:8080/san/san123/127
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/6wYLB5f/space.png" group-title = "Filme e Serie", Espaço
+http://canais.servidor.tv:8080/san/san123/1445
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/6wYLB5f/space.png" group-title = "Filme e Serie", Espaço *	
+http://canais.servidor.tv:8080/san/san123/125
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Rv3pNrH/sportv.png" group-title = "Esporte", SporTV
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0spjc8skcs800h3cmlcm = 5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Rv3pNrH/sportv.png" group-title = "Esporte", SporTV *
+http://canais.servidor.tv:8080/san/san123/1444
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title = "Esporte", SporTV 2
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0spj9c8skcs800h3cmlcm = 5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title = "Esporte", SporTV 2
+http://canais.servidor.tv:8080/san/san123/1443	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/G7wwzFS/sportv3.png" group-title = "Esporte", SporTV 3
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0spjc8skcs800h3cmlcm = 5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/3pc26zL/syfy2018.png" group-title = "Filme e Serie", Syfy
+http://canais.servidor.tv:8080/san/san123/115
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/kXhr2Cr/tbsb.png" group-title = "Filme e Serie", TBS
+http://canais.servidor.tv:8080/san/san123/113
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/jgP3J7r/tcm.png" group-title = "Filme e Serie", TCM
+http://canais.servidor.tv:8080/san/san123/99
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/LY4HPS3/tcactionb.png" group-title = "Filme e Serie", Telecine Action
+http://canais.servidor.tv:8080/san/san123/1438
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/LY4HPS3/tcactionb.png" group-title = "Filme e Serie", Telecine Action *
+http://canais.servidor.tv:8080/san/san123/111
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/jvGkYnG/tccultb.png" group-title = "Filme e Serie", Telecine Cult
+http://canais.servidor.tv:8080/san/san123/1437
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/jvGkYnG/tccultb.png" group-title = "Filme e Serie", Telecine Cult *
+http://canais.servidor.tv:8080/san/san123/109
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/cc4HPVH/tcfunb.png" group-title = "Filme e Serie", Telecine Fun
+http://canais.servidor.tv:8080/san/san123/1436
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/cc4HPVH/tcfunb.png" group-title = "Filme e Serie", Telecine Fun *
+http://canais.servidor.tv:8080/san/san123/107
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title = "Filme e Serie", Telecine Pipoca
+http://canais.servidor.tv:8080/san/san123/1435
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title = "Filme e Serie", Telecine Pipoca *
+http://canais.servidor.tv:8080/san/san123/105
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title = "Filme e Serie", Telecine Premium
+http://canais.servidor.tv:8080/san/san123/1434
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title = "Filme e Serie", Telecine Premium *
+http://canais.servidor.tv:8080/san/san123/103
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/2P8hGVv/tctouchb.png" group-title = "Filme e Serie", Telecine Touch
+http://canais.servidor.tv:8080/san/san123/1439
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/2P8hGVv/tctouchb.png" group-title = "Filme e Serie", Telecine Touch *
+http://canais.servidor.tv:8080/san/san123/101
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/BLmwXmN/tnt.png" group-title = "Filme e Serie", TNT
+http://canais.servidor.tv:8080/san/san123/1433
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/BLmwXmN/tnt.png" group-title = "Filme e Serie", TNT *
+http://canais.servidor.tv:8080/san/san123/92
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/KVMQPWv/tntseries.png" group-title = "Filme e Serie", Série TNT
+http://canais.servidor.tv:8080/san/san123/1432
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/KVMQPWv/tntseries.png" group-title = "Filme e Serie", Série TNT
+http://canais.servidor.tv:8080/san/san123/90
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Canais 24h", WENDEL TECK Todo Mundo Odeia o Chris (24H)
+http://canais.servidor.tv:8080/san/san123/2702
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/8xkPXfn/tvaparecida.png" group-title = "TV Aberta", (OFFLINE) TV Aparecida
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tvaparecida_be4d979e_9eef64a83bcae9b8fb18b7cf1fa22a678c4ec737/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/PgcdPNt/tvbrasil.png" group-title = "TV Aberta", (OFFLINE) TV Brasil
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tvbrasil_86cf294a_5fd19dbf5ba2e563ad1cc00d0ee8d99a55eb3e7d/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/9YDb4fW/tooncast.png" group-title = "Infantil", (OFFLINE) Tooncast
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/tooncast_8effee40_b563131798f47cbe369ec69821f94b7472bd2762/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/p3cFRcS/vh1.png" group-title = "Entretenimento e Musica", VH1
+http://canais.servidor.tv:8080/san/san123/65	
+
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/W0w20Dn/viva2018.png" group-title = "Variedade", Viva
+http://canais.servidor.tv:8080/san/san123/10
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Entreterimento", WENDEL TECK Warner Channel HD +
+http://canais.servidor.tv:8080/san/san123/61
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Entreterimento", WENDEL TECK WooHoo HD +
+http://canais.servidor.tv:8080/san/san123/59
